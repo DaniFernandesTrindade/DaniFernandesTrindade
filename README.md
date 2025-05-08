@@ -41,7 +41,6 @@ Atualmente estou me desenvolvendo com foco em Back-End e Front-End para me torna
 
 - Sou apaixonada por tecnologia desde cedo.  
 - Tenho uma abordagem prática nos estudos: aplico em projetos reais e protótipos.  
-- Estou conectando Administração e TI para empreender com eficiência.  
 - Em constante evolução para me tornar uma Desenvolvedora Full Stack.
 
 ---
