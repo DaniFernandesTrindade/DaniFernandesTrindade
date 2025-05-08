@@ -1,4 +1,4 @@
-# ✨ Hello world, I'm Daniella Trindade ✨
+# 👾✨ Hello world, I'm Daniella Trindade ✨👾
 
 Sou estudante de Ciência da Computação apaixonada por tecnologia, lógica de programação e aprendizado contínuo.  
 Atualmente estou me desenvolvendo com foco em Back-End e Front-End para me tornar uma Desenvolvedora Full Stack.  
