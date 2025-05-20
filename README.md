@@ -21,8 +21,9 @@ Atualmente estou me desenvolvendo com foco em Back-End e Front-End para me torna
 
 ## 📊 Meu Dashboard
 
-![Daniella's GitHub stats](https://github-readme-stats.vercel.app/api?username=danitrindade&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danitrindade&layout=compact&theme=tokyonight)
+![Daniella's GitHub stats](https://github-readme-stats.vercel.app/api?username=danitrindade&show_icons=true&theme=tokyonight&cache_seconds=1800)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danitrindade&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 ---
 
